@@ -19,5 +19,5 @@ This script provides quick system health checks for **disk, memory, CPU, and net
 
 ### 1. Clone or Download
 ```bash
-git clone https://github.com/YOUR-USERNAME/IT-Support-Toolkit.git
+git clone https://github.com/Jashan9999/IT-Support-Toolkit.git
 cd IT-Support-Toolkit
